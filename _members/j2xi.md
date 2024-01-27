@@ -1,10 +1,9 @@
 ---
-name: Jiachen Xi
+name: JX
 image: images/photo.jpg
-role: undergraduate researcher
-group: student
+description: undergraduate
 links:
   TBA
 ---
 
-Jiachen's bio TBA
+j2xi's bio TBA
