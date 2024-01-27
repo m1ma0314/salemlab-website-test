@@ -1,5 +1,5 @@
 ---
-name: Mijia Ma
+name: MM
 image: images/photo.jpg
 role: undergraduate researcher
 group: student
