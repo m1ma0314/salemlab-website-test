@@ -1,5 +1,5 @@
 
-# m1ma0314's Website
+# Salem Lab
 
 Visit **[m1ma0314.github.io/salemlab-website-test](https://m1ma0314.github.io/salemlab-website-test)** 🚀
 
