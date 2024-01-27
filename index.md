@@ -1,7 +1,7 @@
 ---
 ---
 
-# m1ma0314's Website
+# Salem Lab
 
 An engaging 1-3 sentence description of your lab.
 
