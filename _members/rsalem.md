@@ -1,5 +1,5 @@
 ---
-name: Rany Salem
+name: R Salem
 image: images/photo.jpg
 role: pi
 aliases:
