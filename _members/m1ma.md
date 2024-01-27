@@ -1,7 +1,7 @@
 ---
 name: MM
 image: images/photo.jpg
-role: undergraduate researcher
+description: undergraduate
 group: student
 links:
   TBA
