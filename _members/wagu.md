@@ -1,10 +1,10 @@
 ---
-name: Wanjun Gu
+name: WG
 image: images/photo.jpg
-description: PhD student at UCSF
+description: PhD student
 role: programmer
 links:
   email: TBA
 ---
 
-Wanjun's bio TBA
+WG's bio TBA
